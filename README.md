@@ -21,13 +21,6 @@ Building digital solutions to solve real-world problems. Currently focusing on h
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wirashauma&show_icons=true&theme=tokyonight&hide_border=true" alt="Wira's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirashauma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
