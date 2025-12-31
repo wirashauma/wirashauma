@@ -1,4 +1,4 @@
-# Hi there, I'm Wira Shauma 👋
+# Hi there, I'm Wira Shauma Ardhana👋
 ### Mobile Developer | Software Engineer | Tech Enthusiast
 
 Building digital solutions to solve real-world problems. Currently focusing on high-quality mobile applications using Flutter & Dart.
