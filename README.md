@@ -1,4 +1,4 @@
-# Hi there, I'm Wira Shauma 👋
+# Hi there, I'm Wira Shauma Ardhana👋
 ### Mobile Developer | Software Engineer | Tech Enthusiast
 
 Building digital solutions to solve real-world problems. Currently focusing on high-quality mobile applications and scalable backend systems.
@@ -38,4 +38,4 @@ Building digital solutions to solve real-world problems. Currently focusing on h
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wirashauma)
 
 ---
-*Generated with ❤️ by Wira Shauma*
+*Generated with ❤️ by Wira Shauma Ardhana*
