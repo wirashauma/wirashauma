@@ -33,14 +33,6 @@ Building digital solutions to solve real-world problems. Currently focusing on h
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wirashauma&show_icons=true&theme=tokyonight&hide_border=true" alt="Wira's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirashauma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wirashauma)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wirashauma)
